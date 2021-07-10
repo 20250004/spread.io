@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.banx {
+    width: 100%;
+    margin: left;
+    height: 80px;
+    background-color: rgb(103,199,7);
+}
+.banxwada1 {
+    height: 80px;
+    background-color: rgb(103, 199, 7);
+}
+.li li {
+    list-style: none;
+    float: left;
+}
+.li li a {
+    height: 79px;
+    display: block;
+    padding: 0 40px;
+    line-height: 75px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.li li a:hover {
+    border-bottom: cyan;
+    color: cyan;
+    border-bottom: 2px solid rgb(251, 103, 103);
+}
+.zuobiank {
+    border-left:1px solid rgb(65, 92, 70)
+}
+.youbiank {
+    border-right:1px solid rgb(65, 92, 70)
+}
+.logo {
+    padding: 0 50px;
+    width: 400px;
+
+    float: left;
+}
+.nav {
+    float: left;
+    margin-left: 900px;
+}
+.fd {
+    float: left;
+}
+.xiaz {
+    position: relative;
+    height: 65px;
+    line-height: 65px;
+    border: 1px solid #6994da5e;
+    border-color: rgba(123, 191, 255, 0.582);
+    color: #ccc;
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    display: inline-block;
+    text-decoration: none;
+    width: 180px;
+    text-align: center;
+    padding: 0 50px;
+}
+.xiaz1 {
+    padding: 380px 800px;
+}
+.wenben {
+    color:rgb(103, 199, 7);
+    padding: 0 650px;
+}
+.wenben1 {
+    -webkit-animation-duration: 3s;
+    animation-duration: .3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.wenben2 {
+    position: relative;
+    height: 87px;
+    margin-top: 25px;
+}
